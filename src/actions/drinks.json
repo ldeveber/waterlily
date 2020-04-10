@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "display_name": "Water Lily",
+    "status": "purple",
+    "origin": {
+      "creator": "Richie Boccato",
+      "venue": "Milk & Honey",
+      "location": "New York"
+    },
+    "specs": [
+      {
+        "name": "Milk & Honey",
+        "glassware": "coupe",
+        "components": [
+          {
+            "name": "gin",
+            "quantity": 0.75,
+            "unit": "oz"
+          },
+          {
+            "name": "orange liqueur",
+            "quantity": 0.75,
+            "unit": "oz"
+          },
+          {
+            "name": "créme de violette",
+            "quantity": 0.75,
+            "unit": "oz"
+          },
+          {
+            "name": "fresh lemon juice",
+            "quantity": 0.75,
+            "unit": "oz"
+          }
+        ],
+        "construction": "stir",
+        "instructions": [
+          "stir in an ice-filled mixing glass & strain into coupe"
+        ],
+        "garnish": [
+          {
+            "name": "orange twist",
+            "quantity": 1,
+            "notes": "twist over drink to express the oils"
+          }
+        ],
+        "straw": false,
+        "citations": [
+          {
+            "title": "Imbibe Magazine",
+            "author": "Imbibe",
+            "date": "2016-11-07T00:00:00.000Z",
+            "href": "https://imbibemagazine.com/water-lily-cocktail/"
+          }
+        ],
+        "images": [
+          {
+            "text": "water lily",
+            "href": "https://imbibemagazine.com/wp-content/uploads/2016/11/shake-stir-sip-water-lily-vertical-crdt-john-lee-web-1.jpeg",
+            "credit": "John Lee"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "display_name": "Manhattan",
+    "status": "green",
+    "origin": null,
+    "specs": [
+      {
+        "name": "Death & Co",
+        "glassware": "coupe",
+        "components": [
+          {
+            "name": "rittenhouse 100 rye whiskey",
+            "quantity": 2.5,
+            "unit": "oz"
+          },
+          {
+            "name": "house sweet vermouth",
+            "quantity": 0.75,
+            "unit": "oz"
+          },
+          {
+            "name": "angostura bitters",
+            "quantity": 2,
+            "unit": "dash"
+          }
+        ],
+        "construction": "stir",
+        "instructions": [
+          "stir all the ingredients over ice, then strain into a coupe"
+        ],
+        "garnish": [
+          {
+            "name": "brandied cherry",
+            "quantity": 1
+          }
+        ],
+        "straw": false,
+        "citations": [
+          {
+            "title": "Death & Co: Modern Classic Cocktails",
+            "author": [
+              "David Kaplan",
+              "Nick Fauchald",
+              "Alex Day"
+            ],
+            "date": "2014-10-07T00:00:00.000Z",
+            "publisher": "Ten Speed Press"
+          }
+        ],
+        "notes": [
+          "house sweet vermouth is equal parts dolin rouge and punt e mes"
+        ]
+      },
+      {
+        "name": "original",
+        "glassware": "rocks",
+        "components": [
+          {
+            "name": "rye whiskey",
+            "quantity": 2,
+            "unit": "oz"
+          },
+          {
+            "name": "sweet vermouth",
+            "quantity": 0.5,
+            "unit": "oz"
+          },
+          {
+            "name": "angostura bitters",
+            "quantity": 1,
+            "unit": "dash"
+          }
+        ],
+        "construction": "stir",
+        "instructions": [
+          "stir all the ingredients over ice, then strain into a chilled rocks glass"
+        ],
+        "garnish": [
+          "maraschino cherry"
+        ],
+        "straw": false,
+        "citations": null
+      }
+    ]
+  }
+]

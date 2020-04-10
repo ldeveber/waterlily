@@ -1,0 +1,152 @@
+[
+  {
+    "name": "light rum",
+    "description": {
+      "short": "Molasses-based spirit filtered of all or most of its color, influenced heavily by products popularized by Bacardi in Cuba before their exodus to Bermuda in the early 20th Century. Light rums can still be aged.",
+      "long": "Generic for aged molasses-based spirit filtered of all or most of its color. Pretty much all light rum is heavily influenced by the light Cuban rums popularized by Bacardi in the early 20th Century. While some also reflect the character of the rums where they are produced, still others are so heavily filtered that they lack much character at all."
+    },
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ],
+    "alternative_names": [
+      "light-aged cuban-style rum"
+    ]
+  },
+  {
+    "name": "bourbon whiskey",
+    "description": {
+      "short": "A type of whiskey produced in the United States from grain mash containing at least 51% corn and aged in new charred American Oak barrels.",
+      "long": "Generic category for U.S. single-malt whiskey distilled from predominately corn mash with wheat or rye grains. Popular in all manner of mixed drinks 19th century-present."
+    },
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ],
+    "alternative_names": [
+      "bourbon"
+    ]
+  },
+  {
+    "name": "swedish punsch",
+    "description": {
+      "short": "A Scandanavian liqueur made from arrack (distilled cane sugar and rice from Java, Indonesia) and cane sugar typically also containing brandy, rum, and tea.",
+      "long": "Generic for a category of smoky Scandinavian liqueur with a base of Batavia Arak. Batavia Arak is a distillate of fermented sugar cane juice and fermented Javanese rice—a sharp, smoky, rummy spirit. Swedish Punsch (or Punch) sweetens this with cane sugar to produce an unforgettable liqueur. Like a dark smoky rum and when added to other lesser rums tends to enhance their value in an estimable way."
+    },
+    "notable_brands": [
+      "Cederlund’s",
+      "Carlshamn’s",
+      "Gronstedt"
+    ],
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ],
+    "alternative_names": [
+      "swedish punch"
+    ]
+  },
+  {
+    "name": "lemon juice",
+    "description": {
+      "short": "The fresh squeezed citrus juice of the lemon fruit.",
+      "long": "Lemon juice is the fresh squeezed citrus juice of the lemon fruit. The most ubiquitous fruit used in the entire pantheon of mixed drinks. Note that “limon” in Spanish can mean either lemon (limon) OR lime (limon verde), so choice should be on the basis of the suffix, or base spirit if there is any question."
+    },
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ]
+  },
+  {
+    "name": "simple syrup",
+    "description": {
+      "short": "Equal parts refined sugar dissolved in water."
+    },
+    "alternative_names": [
+      "simple",
+      "1:1 simple"
+    ]
+  },
+  {
+    "name": "brown jamaican rum",
+    "description": {
+      "short": "Heavy-bodied, rich, flavorful molasses spirit fermented, distilled, and aged in Jamaica.",
+      "long": "Generic for the heavy-bodied, rich, flavorful rums fermented, distilled, and aged in Jamaica. Note: except for the unaged white overproof rums popular with the natives (and relatively uncommon in cocktails), Jamaican rum is typically aged, even if it is subsequently stripped of its color through filtering. If a recipe calls for “aged Jamaican  rum”, go for quality, not color."
+    },
+    "alternative_names": [
+      "aged jamaican rum"
+    ],
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ]
+  },
+  {
+    "name": "dry orange curaçao",
+    "description": {
+      "short": "Orange liqueur of Dutch origin from the Caribbean island of Curaçao made from aged brandy and bitter orange peels."
+    },
+    "alternative_names": [
+      "orange curaçao"
+    ],
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ]
+  },
+  {
+    "name": "lime juice",
+    "description": {
+      "short": "The fresh squeezed juice of the lime fruit.",
+      "long": "Lime juice is the fresh squeezed juice of the lime fruit. Most common in rum and tequila drinks, also well-loved with gin & vodka, and used in everything. Note that limon in Spanish can mean either lime or lemon, so choice should be on the basis of the base spirit if there is any question."
+    },
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ]
+  },
+  {
+    "name": "orgeat",
+    "description": {
+      "short": "Almond syrup commonly used in tropical drinks.",
+      "long": "Pronounced orzh-AH or orzh-AHT, orgeat is a syrup of almonds, orange flower water and sometimes barley water often used in tropical and other cocktails. Now always nonalcoholic, it was once made with a small quantity of brandy. Clear to milky golden in color. Many brands are  produced. Note that, with discretion, it can be possible to substitute some commercial almond syrups for orgeat in some mixed drinks."
+    },
+    "citations": [
+      "Ingredient description from the MixologyTech Ingredients Database"
+    ]
+  },
+  {
+    "name": "appleton estate reserve rum",
+    "generic_name": "aged jamaican rum",
+    "description": {
+      "short": "Specific variety of blended-still aged rum from Jamaica.",
+      "long": "Specific variety of blended-still aged rum from Jamaica."
+    },
+    "citations": null
+  },
+  {
+    "name": "amontillado sherry",
+    "description": {
+      "short": "A drier style of sherry (fortified wine from Spain)",
+      "long": "Amontillado is the generic category for a de facto style of unsweetened sherry that falls between the somewhat more clearly defined fino and oloroso styles. It is essentially a mature fino or manzanilla sherry that has been subsequently (deliberately) oxidized or partially oxidized. The best amontillados can be spectacularly complex. Once opened, a bottle of amontillado is somewhat more shelf-stable than fino, but should still be consumed fairly quickly."
+    },
+    "origin": "Spain",
+    "citations": null
+  },
+  {
+    "name": "lustau amontillado sherry",
+    "generic_name": "amontillado sherry",
+    "description": {
+      "short": "A specific variety of drier sherry from Spain.",
+      "long": "A specific variety of drier sherry from Spain."
+    },
+    "citations": null
+  },
+  {
+    "name": "galliano ristretto coffee liqueur",
+    "generic_name": "coffee liqueur",
+    "description": {
+      "short": "A specific brand of coffee liqueur."
+    }
+  },
+  {
+    "name": "coffee liqueur",
+    "description": {
+      "short": "Coffee-flavored liqueur.",
+      "long": "Liqueur containing natural and/or artificial coffee flavoring in neutral spirit or rum base and sweetener."
+    }
+  }
+]
