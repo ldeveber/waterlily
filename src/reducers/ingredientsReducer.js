@@ -7,6 +7,7 @@ import {
 
 const initialState = {
   ingredients: {},
+  tree: {},
   loading: false,
   error: null,
 };
@@ -23,6 +24,7 @@ export default function ingredientsReducer(state = initialState, action = {}) {
       return produce(state, draft => {
         draft.loading = false;
         draft.ingredients = action.payload.ingredients;
+        draft.tree = action.payload.tree;
       });
 
     case FETCH_INGREDIENTS_FAILURE:

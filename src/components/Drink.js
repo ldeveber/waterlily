@@ -4,6 +4,7 @@ import { useHistory } from 'react-router-dom';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Card from '@material-ui/core/Card';
+import CardHeader from '@material-ui/core/CardHeader';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
@@ -40,27 +41,28 @@ const Drink = ({ drink }) => {
   // console.log(drink)
   return (
     <Card className={classes.card} onClick={onClick}>
+      <CardHeader
+        // avatar={
+        //   <Avatar aria-label="recipe" className={classes.avatar}>
+        //     R
+        //   </Avatar>
+        // }
+        // action={
+        //   <IconButton aria-label="settings">
+        //     <MoreVertIcon />
+        //   </IconButton>
+        // }
+        title={drink.cocktail_display_name}
+        subheader={drink.spec_display_name}
+      />
       <CardMedia
         className={classes.cardMedia}
         image="https://source.unsplash.com/random"
         title="Image title"
       />
       <CardContent className={classes.cardContent}>
-        <Typography gutterBottom variant="h5" component="h2">
-          {drink.cocktail_display_name}
-        </Typography>
-        <Typography>
-          {drink.status}
-        </Typography>
+        {drink.component_display_names.join(', ')}
       </CardContent>
-      <CardActions>
-        <Button size="small" color="primary">
-          View
-        </Button>
-        <Button size="small" color="primary">
-          Edit
-        </Button>
-      </CardActions>
     </Card>
   );
 };

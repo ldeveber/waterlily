@@ -36,7 +36,7 @@ export const fetchCocktails = () => {
     // TODO FIXME
     const map = {};
     cocktails.forEach(cocktail => {
-      map[cocktail.cocktail_slug] = cocktail;
+      map[`${cocktail.cocktail_slug}.${cocktail.spec_slug}`] = cocktail;
     });
     return dispatch(fetchCocktailsSuccess(map))
 

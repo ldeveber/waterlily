@@ -1,5 +1,6 @@
 // TODO FIXME
 import ingredients from './ingredients.json';
+import tree from './ingredients_tree.json';
 
 export const FETCH_INGREDIENTS_BEGIN = 'FETCH_INGREDIENTS_BEGIN';
 export const FETCH_INGREDIENTS_SUCCESS = 'FETCH_INGREDIENTS_SUCCESS';
@@ -16,6 +17,7 @@ export const fetchIngredientsSuccess = (ingredients) => ({
   type: FETCH_INGREDIENTS_SUCCESS,
   payload: {
     ingredients,
+    tree,
     loading: false,
   },
 });

@@ -32,7 +32,7 @@ const Ingredient = ({ ingredient }) => {
   const handleClick = () => {
     setOpen(!open);
   };
-console.log(ingredient)
+// console.log(ingredient)
   return (
     <React.Fragment>
       <ListItem button onClick={handleClick}>

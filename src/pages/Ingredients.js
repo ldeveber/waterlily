@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getIngredients } from '../selectors';
+import { getIngredients, getIngredientsTree } from '../selectors';
 import { fetchIngredients } from '../actions/ingredientsAction';
 import { makeStyles } from '@material-ui/core/styles';
 import ListSubheader from '@material-ui/core/ListSubheader';
@@ -26,11 +26,14 @@ const useStyles = makeStyles((theme) => ({
 const Ingredients = () => {
   const classes = useStyles();
   const ingredients = useSelector(getIngredients);
+  const tree = useSelector(getIngredientsTree);
   const dispatch = useDispatch();
 
   useEffect(() => {
     dispatch(fetchIngredients());
   }, [dispatch])
+
+console.log(ingredients, tree);
 
   return (
     <div className={classes.root}>
