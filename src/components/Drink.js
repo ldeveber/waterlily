@@ -37,6 +37,7 @@ const Drink = ({ drink }) => {
     history.push(`/drinks/${drink.id}`);
   };
   
+  // console.log(drink)
   return (
     <Card className={classes.card} onClick={onClick}>
       <CardMedia
@@ -46,7 +47,7 @@ const Drink = ({ drink }) => {
       />
       <CardContent className={classes.cardContent}>
         <Typography gutterBottom variant="h5" component="h2">
-          {drink.display_name}
+          {drink.cocktail_display_name}
         </Typography>
         <Typography>
           {drink.status}

@@ -1,0 +1,2572 @@
+[
+  {
+    "score": 1,
+    "cocktail_slug": "mig-royale",
+    "cocktail_display_name": "Mig Royale",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Cointreau",
+      "Luxardo Maraschino Liqueur",
+      "Lemon Juice",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "pasifika-margarita",
+    "cocktail_display_name": "Pasifika Margarita",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Patron Silver",
+      "Patron Citronge",
+      "Coconut Water",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Simple Syrup",
+      "Li Hing Mui Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "oaxaca-old-fashioned",
+    "cocktail_display_name": "Oaxaca Old-Fashioned",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Tesoro Reposado Tequila",
+      "Del Maguey San Luis Del Rio Mezcal",
+      "Agave Nectar",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "rum-negroni",
+    "cocktail_display_name": "Rum Negroni",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Aged Rum",
+      "Sweet Vermouth",
+      "Amaro Meletti",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "mai-tai",
+    "cocktail_display_name": "Mai Tai",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Clement Premiere Canne",
+      "Appleton Estate Reserve Rum",
+      "Lime Juice",
+      "Small Hand Foods Orgeat",
+      "Pierre Ferrand Dry Curacao"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "mai-tai",
+    "cocktail_display_name": "Mai Tai",
+    "spec_slug": "state-park",
+    "spec_display_name": "State Park",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Old Monk 7 Year Rum",
+      "Privateer Ambre Rum",
+      "Pierre Ferrand Dry Curacao",
+      "Lime Juice",
+      "Orgeat",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "daiquiri",
+    "cocktail_display_name": "Daiquiri",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Lightly Aged Column Still Rum",
+      "Lime Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "creole-saz",
+    "cocktail_display_name": "Creole Saz",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Vieux Pontarlier Absinthe",
+      "Ron Zacapa Centenario 23 Rum",
+      "Cane Sugar Syrup",
+      "House Peychauds Bitters",
+      "Angostura Bitters",
+      "Bittermens Xocolatl Mole Bitters",
+      "Lemon Twist"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "howlin-at-the-moon",
+    "cocktail_display_name": "Howlin at the Moon",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Lemon Twist",
+      "Bols Barrel Aged Genever",
+      "Marie Brizard White Creme De Cacao",
+      "Cane Sugar Syrup",
+      "Bittercube Cherry Bark Vanilla Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "adelita",
+    "cocktail_display_name": "Adelita",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Siete Leguas Reposado Tequila",
+      "Cocchi Americano",
+      "Dolin Dry Vermouth",
+      "Creme De Violette"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sour-reverend",
+    "cocktail_display_name": "Sour Reverend",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plantation Pineapple Rum",
+      "Lemon Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "puerto-rican-racer",
+    "cocktail_display_name": "Puerto Rican Racer",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Ron Del Barrilito 3 Star Rum",
+      "Lairds Bonded Apple Brandy",
+      "Yellow Chartreuse",
+      "Grenadine",
+      "House Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "guillotine",
+    "cocktail_display_name": "Guillotine",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Mezcal",
+      "Blended Scotch Whisky",
+      "Giffard Banane Du Bresil",
+      "Honey Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "legend",
+    "cocktail_display_name": "Legend",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Pierre Ferrand 1840 Cognac",
+      "Appleton Signature Rum",
+      "Lustau Amontillado Sherry",
+      "Amaro Nonino",
+      "Demerara Syrup",
+      "Bitter Truth Aromatic Bitters",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sunset-at-gowanus",
+    "cocktail_display_name": "Sunset At Gowanus",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Santa Teresa 1796 Rum",
+      "Lairds Bonded Apple Brandy",
+      "Yellow Chartreuse",
+      "Lime Juice",
+      "Grade B Maple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "normandy-old-fashioned",
+    "cocktail_display_name": "Normandy Old Fashioned",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Domaine Du Manoir De Montreuil Reserve",
+      "Lairds Old Apple Brandy",
+      "Rich Simple Syrup",
+      "Angostura Bitters",
+      "Orange Bitters",
+      "Pimento Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "gimlet",
+    "cocktail_display_name": "Gimlet",
+    "spec_slug": "clover-club",
+    "spec_display_name": "Clover Club",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Tanqueray London Dry Gin",
+      "Simple Syrup",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "gimlet",
+    "cocktail_display_name": "Gimlet",
+    "spec_slug": "frenchette",
+    "spec_display_name": "Frenchette",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Tanqueray London Dry Gin",
+      "3 2 Simple Syrup",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "paddy-melt",
+    "cocktail_display_name": "Paddy Melt",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Knappogue Castle 12 Year Irish Whiskey",
+      "Chamomile Infused Old Overholt Rye Whiskey",
+      "Amaro Meletti",
+      "Lemon Juice",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "petticoat",
+    "cocktail_display_name": "Petticoat",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Szechuan Peppercorn Infused Plymouth Gin",
+      "John D Taylors Velvet Falernum",
+      "Marie Brizard Apricot Liqueur",
+      "Lime Juice",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "rum-old-fashioned",
+    "cocktail_display_name": "Rum Old Fashioned",
+    "spec_slug": "two-rum",
+    "spec_display_name": "Two Rum",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Smith Cross Jamaican Rum",
+      "El Dorado 12 Year Rum",
+      "Demerara Syrup",
+      "Mole Bitters",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "rum-old-fashioned",
+    "cocktail_display_name": "Rum Old Fashioned",
+    "spec_slug": "three-rum",
+    "spec_display_name": "Three Rum",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Appleton Estate Reserve Rum",
+      "Ron Zacapa Centenario 23 Rum",
+      "Smith Cross Jamaican Rum",
+      "Demerara Syrup",
+      "Orange Bitters",
+      "Mole Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "the-black-prince",
+    "cocktail_display_name": "The Black Prince",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Ron Zacapa Centenario 23 Rum",
+      "Punt E Mes",
+      "Amaro Averna",
+      "House Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "baked-apple-toddy",
+    "cocktail_display_name": "Baked Apple Toddy",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Apple Brandy",
+      "Hot Apple Cider",
+      "Cinnamon Syrup",
+      "Lemon Juice",
+      "Bar Keep Apple Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "maple-bourbon-sour",
+    "cocktail_display_name": "Maple Bourbon Sour",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Lemon Juice",
+      "Maple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "little-miss-annabelle",
+    "cocktail_display_name": "Little Miss Annabelle",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Pierre Ferrand Ambre Cognac",
+      "Mathilde Poire Pear Liqueur",
+      "Benedictine",
+      "Lemon Juice",
+      "Cane Sugar Syrup",
+      "House Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "airmail",
+    "cocktail_display_name": "Airmail",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Ron Del Barrilito 3 Star Rum",
+      "Lime Juice",
+      "Acacia Honey Syrup",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "how-do-i-compare",
+    "cocktail_display_name": "How Do I Compare",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Apple Brandy",
+      "Bourbon Whiskey",
+      "Benedictine",
+      "Cointreau",
+      "Apple Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "chingon",
+    "cocktail_display_name": "Chingon",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Siete Leguas Reposado Tequila",
+      "Benedictine",
+      "Orange Juice",
+      "Lime Juice",
+      "Orgeat"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "upper-crust",
+    "cocktail_display_name": "Upper Crust",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Cognac",
+      "Old Tom Gin",
+      "Maraschino Liqueur",
+      "Lemon Juice",
+      "Orgeat"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "session-margarita",
+    "cocktail_display_name": "Session Margarita",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Manzanilla Sherry",
+      "Tequila",
+      "Original Combier",
+      "Lime Juice",
+      "Agave Syrup",
+      "Salt"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "p-p-pisco-cocktail",
+    "cocktail_display_name": "P&P Pisco Cocktail",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Pisco",
+      "Pimms No 1",
+      "Maraschino Liqueur",
+      "Lime Juice",
+      "Lemon Juice",
+      "Rich Simple Syrup",
+      "Angostura Bitters",
+      "Ginger Beer"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "tom-collins",
+    "cocktail_display_name": "Tom Collins",
+    "spec_slug": "death-co",
+    "spec_display_name": "Death & Co",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Beefeater London Dry Gin",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "seda-de-naranja",
+    "cocktail_display_name": "Seda De Naranja",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Tesoro Reposado Tequila",
+      "Grand Marnier",
+      "House Orange Bitters",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "french-75",
+    "cocktail_display_name": "French 75",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "London Dry Gin",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "french-75",
+    "cocktail_display_name": "French 75",
+    "spec_slug": "punch-winner",
+    "spec_display_name": "Punch Winner",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Hine H Vsop Cognac",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Louis Roederer Champagne Brut Primier"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "french-75",
+    "cocktail_display_name": "French 75",
+    "spec_slug": "punch-runnerup",
+    "spec_display_name": "Punch Runnerup",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Lemon Juice",
+      "Cane Sugar Syrup",
+      "Orange Bitters",
+      "Sparkling Wine"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "coralillo",
+    "cocktail_display_name": "Coralillo",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Tesoro Anejo Tequila",
+      "Yellow Chartreuse",
+      "Busnel Vsop Calvados",
+      "Clear Creek Pear Brandy"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "banana-daiquiri",
+    "cocktail_display_name": "Banana Daiquiri",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Giffard Banane Du Bresil",
+      "Rum Bar Gold",
+      "Rum Bar White Overproof",
+      "Lime Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "gilda-cocktail",
+    "cocktail_display_name": "Gilda Cocktail",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Siembra Azul Blanco Tequila",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Cinnamon Bark Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "kentucky-tanlines",
+    "cocktail_display_name": "Kentucky Tanlines",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Yaguara Ouro Cachaca",
+      "Amaro Nardini",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Vanilla Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "downeast-stinger",
+    "cocktail_display_name": "Downeast Stinger",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Amaretto",
+      "Goslings Black Seal Rum",
+      "Pineapple Juice",
+      "Downeast Original Hard Cider"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "jack-rose",
+    "cocktail_display_name": "Jack Rose",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Lairds Bonded Apple Brandy",
+      "Lemon Juice",
+      "Jack Rudy Grenadine"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "howl-on-the-hill",
+    "cocktail_display_name": "Howl on the Hill",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Dorado 15 Year Rum",
+      "Santa Teresa 1796 Rum",
+      "Carpano Antica Formula Vermouth",
+      "Fernet Branca",
+      "Yellow Chartreuse",
+      "Vieux Pontarlier Absinthe"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "division-bell",
+    "cocktail_display_name": "Division Bell",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Del Maguey Vida Mezcal",
+      "Aperol",
+      "Luxardo Maraschino Liqueur",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "tiki-tak",
+    "cocktail_display_name": "Tiki Tak",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Lofi Dry Vermouth",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Giffard Banane Du Bresil",
+      "John D Taylors Velvet Falernum",
+      "Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "champs-elysees",
+    "cocktail_display_name": "Champs-Élysées",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Cognac",
+      "Lemon Juice",
+      "Green Chartreuse",
+      "Simple Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "good-fences",
+    "cocktail_display_name": "Good Fences",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Cinnamon Syrup",
+      "Bourbon Whiskey",
+      "Hard Cider"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "tom-bomb",
+    "cocktail_display_name": "Tom Bomb",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Ransom Old Tom Gin",
+      "Donns Spices 2",
+      "Lemon Juice",
+      "Pineapple Juice",
+      "Orgeat",
+      "Acacia Honey Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "negroni-di-aquila",
+    "cocktail_display_name": "Negroni di Aquila",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Aperol",
+      "Punt E Mes",
+      "Prosecco"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "blackthorn",
+    "cocktail_display_name": "Blackthorn",
+    "spec_slug": "lazy-bird",
+    "spec_display_name": "Lazy Bird",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Knappogue Castle 12 Year Irish Whiskey",
+      "Dry Vermouth",
+      "Sweet Vermouth",
+      "Angostura Bitters",
+      "Absinthe"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "adonis-spritz",
+    "cocktail_display_name": "Adonis Spritz",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Fino Sherry",
+      "Carpano Antica Formula Vermouth",
+      "Orange Bitters",
+      "Angostura Bitters",
+      "Sparkling Wine"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "jacques-rose",
+    "cocktail_display_name": "Jacques Rose",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Daron Fine Calvados",
+      "Cafe Cancale Grenadine",
+      "Lemon Juice",
+      "Demerara Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "shruffs-end",
+    "cocktail_display_name": "Shruff's End",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Laphroaig 10 Year Old Single Malt Scotch Whisky",
+      "Lairds Bonded Apple Brandy",
+      "Benedictine",
+      "House Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "moscow-mule",
+    "cocktail_display_name": "Moscow Mule",
+    "spec_slug": "pdt",
+    "spec_display_name": "PDT",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Fentimans Ginger Beer",
+      "Smirnoff Vodka",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "moscow-mule",
+    "cocktail_display_name": "Moscow Mule",
+    "spec_slug": "death-co",
+    "spec_display_name": "Death & Co",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Charbay Vodka",
+      "Lime Juice",
+      "Ginger Syrup",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "session-manhattan",
+    "cocktail_display_name": "Session Manhattan",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Sweet Vermouth",
+      "Rye Whiskey",
+      "Amontillado Sherry",
+      "Dry Vermouth",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "bitter-french",
+    "cocktail_display_name": "Bitter French",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Campari",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Dry Champagne",
+      "Grapefruit Twist"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "martica",
+    "cocktail_display_name": "Martica",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Hine H Vsop Cognac",
+      "Appleton Signature Rum",
+      "Carpano Antica Formula Vermouth",
+      "Luxardo Maraschino Liqueur",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "st-germain-redux",
+    "cocktail_display_name": "St-Germain Redux",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Beefeater London Dry Gin",
+      "Dry Champagne",
+      "St Germain",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sirens-call",
+    "cocktail_display_name": "Siren's Call",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Rhum Clement V S O P",
+      "Banks 5 Island Rum",
+      "Lime Juice",
+      "Apricot Syrup",
+      "Cinnamon Bark Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "wicked-kiss",
+    "cocktail_display_name": "Wicked Kiss",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Lairds Bonded Apple Brandy",
+      "Yellow Chartreuse",
+      "Benedictine",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "vieux-mot",
+    "cocktail_display_name": "Vieux Mot",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Lemon Juice",
+      "St Germain",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "almond-brother",
+    "cocktail_display_name": "Almond Brother",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Siete Leguas Reposado Tequila",
+      "Amaretto",
+      "Rothman Winter Apricot Liqueur",
+      "Lime Juice",
+      "Orgeat",
+      "Maple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "saramago",
+    "cocktail_display_name": "Saramago",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Del Maguey Vida Mezcal",
+      "Siembra Azul Blanco Tequila",
+      "Dolin Blanc Vermouth",
+      "St Germain",
+      "House Orange Bitters",
+      "Grapefruit Twist"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "electric-kool-aid-acid-test",
+    "cocktail_display_name": "Electric Kool-Aid Acid Test",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Siembra Azul Blanco Tequila",
+      "Sloe Gin",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Blackberry",
+      "Luxardo Maraschino Liqueur"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "golden-handcuffs",
+    "cocktail_display_name": "Golden Handcuffs",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Plantation Pineapple Rum",
+      "Aperol",
+      "Swedish Punsch",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "port-au-prince",
+    "cocktail_display_name": "Port au Prince",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Barbancourt 3 Star Rum",
+      "El Dorado 3 Year Rum",
+      "Lemon Hart 151 Rum",
+      "John D Taylors Velvet Falernum",
+      "Lime Juice",
+      "Pineapple Juice",
+      "Grenadine",
+      "Ginger Syrup",
+      "Bittermens Elemakule Tiki Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "diamondback",
+    "cocktail_display_name": "Diamondback",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Lairds Bonded Apple Brandy",
+      "Yellow Chartreuse"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "diamondback",
+    "cocktail_display_name": "Diamondback",
+    "spec_slug": "drink",
+    "spec_display_name": "Drink",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Reposado Tequila",
+      "Yellow Chartreuse"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "doctor-cocktail",
+    "cocktail_display_name": "Doctor Cocktail",
+    "spec_slug": "bergeron-bartenders-guide",
+    "spec_display_name": "Bergeron Bartenders Guide",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Swedish Punsch",
+      "Jamaican Rum",
+      "Lemon Juice",
+      "Orange Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "gin-and-tonic",
+    "cocktail_display_name": "Gin and Tonic",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "London Dry Gin",
+      "Tonic Water"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "pennington-daiquiri",
+    "cocktail_display_name": "Pennington Daiquiri",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "J M Rhum Blanc",
+      "Bertoux Brandy",
+      "Lemon Juice",
+      "Suze",
+      "Super Rich Honey Syrup",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "french-95",
+    "cocktail_display_name": "French 95",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Buffalo Trace Bourbon",
+      "Lemon Juice",
+      "Cane Sugar Syrup",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "diki-diki",
+    "cocktail_display_name": "Diki-Diki",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Calvados",
+      "Swedish Punsch",
+      "Grapefruit Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "mrs-doyle",
+    "cocktail_display_name": "Mrs. Doyle",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Redbreast 12 Year Irish Whiskey",
+      "Kronan Swedish Punsch",
+      "Lemon Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "margarita",
+    "cocktail_display_name": "Margarita",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Blanco Tequila",
+      "Lime Juice",
+      "Triple Sec",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "paper-plane",
+    "cocktail_display_name": "Paper Plane",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Aperol",
+      "Amaro Nonino",
+      "Lemon Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "spaghetti-western",
+    "cocktail_display_name": "Spaghetti Western",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Siete Leguas Reposado Tequila",
+      "Los Nahuales Mezcal",
+      "Amaro Nonino",
+      "House Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "miss-behavin",
+    "cocktail_display_name": "Miss Behavin'",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Clear Creek Pear Brandy",
+      "Lairds Bonded Apple Brandy",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "not-quite-georgia-julep",
+    "cocktail_display_name": "Not-Quite-Georgia Julep",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Cognac",
+      "Lairds Bonded Apple Brandy",
+      "Massenez Creme De Peche Peach Liqueur",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "la-conferencia",
+    "cocktail_display_name": "La Conferencia",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Tesoro Reposado Tequila",
+      "Del Maguey Vida Mezcal",
+      "La Favorite Rhum Agricole Blanc",
+      "Santa Teresa 1796 Rum",
+      "Cane Sugar Syrup",
+      "Angostura Bitters",
+      "Bittermens Xocolatl Mole Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "jack-sparrow-flip",
+    "cocktail_display_name": "Jack Sparrow Flip",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Flor De Cana 7 Year Rum",
+      "Sandeman Rainwater Madeira",
+      "Demerara Syrup",
+      "Egg",
+      "Fee Brothers Whiskey Barrel Aged Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "odd-bedfellows",
+    "cocktail_display_name": "Odd Bedfellows",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Fernet Branca",
+      "El Dorado 8 Year Rum",
+      "Creme De Cacao",
+      "Smith Cross Jamaican Rum",
+      "Pineapple Juice",
+      "Coconut Cream"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sloe-scobeyville-sling",
+    "cocktail_display_name": "Sloe Scobeyville Sling",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Lairds Bonded Apple Brandy",
+      "Plymouth Sloe Gin",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Peychauds Bitters",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "cadiz-collins",
+    "cocktail_display_name": "Cadiz Collins",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Orange Wheel",
+      "Fee Brothers Whiskey Barrel Aged Bitters",
+      "Plymouth Gin",
+      "Lustau Amontillado Sherry",
+      "Lemon Juice",
+      "Demerara Syrup",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "petes-word",
+    "cocktail_display_name": "Pete's Word",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Laphroaig 10 Year Old Single Malt Scotch Whisky",
+      "Luxardo Maraschino Liqueur",
+      "Green Chartreuse",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "tommys-margarita",
+    "cocktail_display_name": "Tommy's Margarita",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "L J Blanco Tequila",
+      "Lime Juice",
+      "Agave Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "rosebuddy-ol-pal",
+    "cocktail_display_name": "Rosebuddy Ol' Pal",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Old Overholt Rye Whiskey",
+      "Combier Liqueur Dabricot",
+      "Campari",
+      "Cinzano Extra Dry Vermouth"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "queen-palm",
+    "cocktail_display_name": "Queen Palm",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Donns Spices 2",
+      "Kalani Ron De Coco Coconut Liqueur",
+      "Grapefruit Juice",
+      "Lime Juice",
+      "Coconut Water",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "maximilian-affair",
+    "cocktail_display_name": "Maximilian Affair",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Mezcal",
+      "St Germain",
+      "Punt E Mes",
+      "Lemon Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "fish-house-punch",
+    "cocktail_display_name": "Fish House Punch",
+    "spec_slug": "death-co",
+    "spec_display_name": "Death & Co",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Sugar Cubes",
+      "Club Soda",
+      "Lemon Juice",
+      "Hine H Vsop Cognac",
+      "Appleton Signature Rum",
+      "Massenez Creme De Peche Peach Liqueur"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "house-of-payne",
+    "cocktail_display_name": "House Of Payne",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Raspberry",
+      "Beefeater London Dry Gin",
+      "Plymouth Sloe Gin",
+      "Campari"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "solera-sidecar",
+    "cocktail_display_name": "Solera Sidecar",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Hine H Vsop Cognac",
+      "Lustau East India Sherry",
+      "Grand Marnier",
+      "Lazzaroni Amaretto",
+      "Lemon Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "standbys-corn-n-oil",
+    "cocktail_display_name": "Standby's Corn n Oil",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Aged Rum",
+      "Falernum",
+      "Lime Juice",
+      "Angostura Bitters",
+      "Blackstrap Rum"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "rough-seas",
+    "cocktail_display_name": "Rough Seas",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Avua Prata Cachaca",
+      "Jagermeister",
+      "Lemon Juice",
+      "Orgeat",
+      "Ginger Syrup",
+      "Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "light-and-day",
+    "cocktail_display_name": "Light and Day",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Yellow Chartreuse",
+      "Maraska Maraschino Liqueur",
+      "Orange Juice",
+      "House Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "applejack-rabbit",
+    "cocktail_display_name": "Applejack Rabbit",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Lairds Bonded Apple Brandy",
+      "Lemon Juice",
+      "Orange Juice",
+      "Grade B Maple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "the-vanderbilt",
+    "cocktail_display_name": "The Vanderbilt",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Lairds Bonded Apple Brandy",
+      "Gran Classico Bitter",
+      "Mathilde Poire Pear Liqueur"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "flor-de-jerez",
+    "cocktail_display_name": "Flor de Jerez",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Appleton Estate Reserve Rum",
+      "Lustau Amontillado Sherry",
+      "Rothman Winter Apricot Liqueur",
+      "Lemon Juice",
+      "Cane Sugar Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "ti-punch",
+    "cocktail_display_name": "Ti' Punch",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "La Favorite Rhum Agricole Blanc",
+      "Lime",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "european-union",
+    "cocktail_display_name": "European Union",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Haymans Old Tom Gin",
+      "Martini Rossi Sweet Vermouth",
+      "Busnel Vsop Calvados",
+      "Strega Liqueur",
+      "Bitter Truth Aromatic Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "corn-n-oil",
+    "cocktail_display_name": "Corn n Oil",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Cruzan Black Strap Rum",
+      "John D Taylors Velvet Falernum",
+      "Lime Juice",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "dos-besitos",
+    "cocktail_display_name": "Dos Besitos",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "El Tesoro Reposado Tequila",
+      "Siete Leguas Blanco Tequila",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Agave Syrup",
+      "Grenadine"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "shipwrecked",
+    "cocktail_display_name": "Shipwrecked",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "El Dorado 8 Year Rum",
+      "Del Maguey Vida Mezcal",
+      "Lime Juice",
+      "Agave Nectar"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "kola-sour",
+    "cocktail_display_name": "Kola Sour",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Banks 5 Island Rum",
+      "Amaro Meletti",
+      "Orgeat",
+      "Lemon Juice",
+      "Egg White",
+      "Bittercube Cherry Bark Vanilla Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "smokey-old-fashioned",
+    "cocktail_display_name": "Smokey Old Fashioned",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Mezcal",
+      "Aged Rum",
+      "Drambuie",
+      "Demerara Syrup",
+      "Angostura Bitters",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "last-word",
+    "cocktail_display_name": "Last Word",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Beefeater London Dry Gin",
+      "Green Chartreuse",
+      "Luxardo Maraschino Liqueur",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sidecar",
+    "cocktail_display_name": "Sidecar",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Remy Martin Vsop Cognac",
+      "Lemon Juice",
+      "Cointreau",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "saz-who",
+    "cocktail_display_name": "Saz Who?",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Cruzan Single Barrel Rum",
+      "Clear Creek Pear Brandy",
+      "Vieux Pontarlier Absinthe",
+      "Demerara Syrup",
+      "House Peychauds Bitters",
+      "Angostura Bitters",
+      "Lemon Twist"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "sharpie-mustache",
+    "cocktail_display_name": "Sharpie Mustache",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Beefeater London Dry Gin",
+      "Bonal Gentiane Quina",
+      "Amaro Meletti",
+      "Bittermens Elemakule Tiki Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "range-life",
+    "cocktail_display_name": "Range Life",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Tesoro Reposado Tequila",
+      "Campari",
+      "Grand Marnier",
+      "Punt E Mes"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "negroni",
+    "cocktail_display_name": "Negroni",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "London Dry Gin",
+      "Campari",
+      "Sweet Vermouth"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "los-amargos",
+    "cocktail_display_name": "Los Amargos",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Centinela Reposado Tequila",
+      "Amaro Nonino",
+      "Cardamaro",
+      "Lemon Juice",
+      "Maraska Maraschino Liqueur"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "old-ironsides",
+    "cocktail_display_name": "Old Ironsides",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Scarlet Ibis Rum",
+      "Cruzan Black Strap Rum",
+      "Dolin Rouge Vermouth",
+      "Lazzaroni Amaretto",
+      "Fee Brothers Whiskey Barrel Aged Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "cotillion-cocktail",
+    "cocktail_display_name": "Cotillion Cocktail",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Old Forester 86 Proof Bourbon",
+      "Angostura 5 Year Rum",
+      "Pierre Ferrand Dry Curacao",
+      "Lemon Juice",
+      "Orange Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "conference",
+    "cocktail_display_name": "Conference",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Buffalo Trace Bourbon",
+      "Calvados",
+      "Hine H Vsop Cognac",
+      "Demerara Syrup",
+      "Angostura Bitters",
+      "Bittermens Xocolatl Mole Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "fancy-holland-royale",
+    "cocktail_display_name": "Fancy Holland Royale",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Bols Genever",
+      "Grand Marnier",
+      "Cane Sugar Syrup",
+      "Fee Brothers Whiskey Barrel Aged Bitters",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "ingenue",
+    "cocktail_display_name": "Ingénue",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Pierre Ferrand Ambre Cognac",
+      "Dolin Rouge Vermouth",
+      "Cinnamon Bark Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "le-gigot-flip",
+    "cocktail_display_name": "Le Gigot Flip",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Santa Teresa 1796 Rum",
+      "Cherry Heering",
+      "Demerara Syrup",
+      "Egg Yolk",
+      "Heavy Cream",
+      "Bittermens Xocolatl Mole Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "field-cocktail",
+    "cocktail_display_name": "Field Cocktail",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Pierre Ferrand Ambre Cognac",
+      "Noilly Prat Dry Vermouth",
+      "Pineapple Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "preakness",
+    "cocktail_display_name": "Preakness",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Old Grand Dad 114 Bourbon",
+      "Carpano Antica Formula Vermouth",
+      "Benedictine",
+      "Bitter Truth Aromatic Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "alaska",
+    "cocktail_display_name": "Alaska",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Old Tom Gin",
+      "Yellow Chartreuse",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "coronation",
+    "cocktail_display_name": "Coronation",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Manzanilla Sherry",
+      "Dry Vermouth",
+      "Maraschino Liqueur",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "uppercut",
+    "cocktail_display_name": "Uppercut",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Applejack",
+      "Becherovka",
+      "Orange Juice",
+      "Lemon Juice",
+      "Hard Cider"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "aperol-spritz",
+    "cocktail_display_name": "Aperol Spritz",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Prosecco",
+      "Aperol",
+      "Soda Water"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "martini",
+    "cocktail_display_name": "Martini",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "London Dry Gin",
+      "Dry Vermouth",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "dead-poet",
+    "cocktail_display_name": "Dead Poet",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Blanco Tequila",
+      "Dry Vermouth",
+      "Mezcal",
+      "Benedictine",
+      "Yellow Chartreuse",
+      "Orange Bitters",
+      "Lime Peel"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "wooden-ship",
+    "cocktail_display_name": "Wooden Ship",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Tanqueray No Ten Gin",
+      "Bols Genever",
+      "Grand Marnier",
+      "Cane Sugar Syrup",
+      "Fee Brothers Whiskey Barrel Aged Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "south-sider",
+    "cocktail_display_name": "South Sider",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "El Dorado 12 Year Rum",
+      "Carpano Antica Formula Vermouth",
+      "Angostura Bitters",
+      "House Peychauds Bitters",
+      "Dry Champagne"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "kir-royale",
+    "cocktail_display_name": "Kir Royale",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Laurent Perrier Brut",
+      "Merlet Creme De Cassis"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "pb-j",
+    "cocktail_display_name": "PB&J",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Skrewball Peanut Butter Whiskey",
+      "Rittenhouse 100 Rye Whiskey",
+      "St George Raspberry Liqueur",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "garrigue",
+    "cocktail_display_name": "Garrigue",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Bacardi Superior Rum",
+      "Lemon Juice",
+      "Yellow Chartreuse",
+      "Orgeat",
+      "Sea Salt"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "7th-planet",
+    "cocktail_display_name": "7th Planet",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Olmeca Altos Reposado Tequila",
+      "Giffard Blue Curacao",
+      "Lime Juice",
+      "Prosecco"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "fairbanks-loan-no-2",
+    "cocktail_display_name": "Fairbanks Loan No. 2",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Beefeater London Dry Gin",
+      "Plantation Pineapple Rum",
+      "Lilletperitif",
+      "Honey Syrup",
+      "Lemon Juice",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "old-fashioned",
+    "cocktail_display_name": "Old Fashioned",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Simple Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "lilywhacker",
+    "cocktail_display_name": "Lilywhacker",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Lairds Bonded Apple Brandy",
+      "Carpano Antica Formula Vermouth",
+      "Cointreau",
+      "Bittermens Xocolatl Mole Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "blackberry-julep",
+    "cocktail_display_name": "Blackberry Julep",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Hendricks Gin",
+      "Lemon Juice",
+      "Marie Brizard Blackberry Liqueur"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "freehand-old-fashioned",
+    "cocktail_display_name": "Freehand Old Fashioned",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Plantation Pineapple Rum",
+      "Demerara Syrup",
+      "Galliano Ristretto",
+      "Angostura Bitters",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "just-the-paperwork",
+    "cocktail_display_name": "Just the Paperwork",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Amaro Nonino",
+      "Cognac",
+      "Cocchi Americano",
+      "Water",
+      "Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "delores-royale",
+    "cocktail_display_name": "Delores Royale",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Del Maguey Vida Mezcal",
+      "Lustau Amontillado Sherry",
+      "Lime Juice",
+      "Hangar One Mandarin Vodka",
+      "Agave Syrup",
+      "Rothman Winter Apricot Liqueur",
+      "Cava"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "angus-story-daiquiri",
+    "cocktail_display_name": "Angus Story Daiquiri",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Appleton Signature Rum",
+      "Ron Del Barrilito 3 Star Rum",
+      "La Favorite Rhum Agricole Blanc",
+      "Lime Juice",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "martinez",
+    "cocktail_display_name": "Martinez",
+    "spec_slug": "pdt",
+    "spec_display_name": "PDT",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Haymans Old Tom Gin",
+      "Dolin Rouge Vermouth",
+      "Luxardo Maraschino Liqueur",
+      "Bokers Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "martinez",
+    "cocktail_display_name": "Martinez",
+    "spec_slug": "death-co",
+    "spec_display_name": "Death & Co",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Haymans Old Tom Gin",
+      "Ransom Old Tom Gin",
+      "House Sweet Vermouth",
+      "Luxardo Maraschino Liqueur",
+      "Massenez Kirsch Vieux Cherry Brandy",
+      "House Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "martinez",
+    "cocktail_display_name": "Martinez",
+    "spec_slug": "dante-nyc",
+    "spec_display_name": "Dante NYC",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Ottos Athens Vermouth",
+      "Old Duff Genever",
+      "Maraschino Liqueur",
+      "Bokers Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "snowballin",
+    "cocktail_display_name": "Snowballin'",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Sexton Irish Whiskey",
+      "Amontillado Sherry",
+      "Pineapple Juice",
+      "Cinnamon Clove Syrup",
+      "Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "boulevardier",
+    "cocktail_display_name": "Boulevardier",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Wild Turkey 101 Rye Whiskey",
+      "Cocchi Vermouth Di Torino",
+      "Campari"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "philly-sling",
+    "cocktail_display_name": "Philly Sling",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Calvados",
+      "Plymouth Sloe Gin",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Fee Brothers Whiskey Barrel Aged Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "myra-breckinridge",
+    "cocktail_display_name": "Myra Breckinridge",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Laphroaig 10 Year Old Single Malt Scotch Whisky",
+      "Vieux Pontarlier Absinthe",
+      "Lime Juice",
+      "Cane Sugar Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "merci",
+    "cocktail_display_name": "Merci",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Yellow Chartreuse",
+      "Aperol",
+      "Domaine De Canton Ginger Liqueur",
+      "Cardamaro"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "jovencourt-daiquiri",
+    "cocktail_display_name": "Jovencourt Daiquiri",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Barbancourt Rhum Blanc",
+      "Del Maguey Vida Mezcal",
+      "Lime Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "deadpan-fix",
+    "cocktail_display_name": "Deadpan Fix",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "Campari",
+      "Grand Marnier",
+      "Grapefruit Juice",
+      "Lemon Juice",
+      "Ginger Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "montgomery-smith",
+    "cocktail_display_name": "Montgomery Smith",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Cognac",
+      "Benedictine",
+      "Fernet Branca"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "naked-and-famous",
+    "cocktail_display_name": "Naked and Famous",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Del Maguey Chichicapa Mezcal",
+      "Yellow Chartreuse",
+      "Aperol",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "manhattan",
+    "cocktail_display_name": "Manhattan",
+    "spec_slug": "death-co",
+    "spec_display_name": "Death & Co",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rittenhouse 100 Rye Whiskey",
+      "House Sweet Vermouth",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "manhattan",
+    "cocktail_display_name": "Manhattan",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Rye Whiskey",
+      "Sweet Vermouth",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "water-lily",
+    "cocktail_display_name": "Water Lily",
+    "spec_slug": "milk-honey",
+    "spec_display_name": "Milk & Honey",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Gin",
+      "Orange Liqueur",
+      "Creme De Violette",
+      "Lemon Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "esmeralda",
+    "cocktail_display_name": "Esmeralda",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Isaura Ouro Cachaca",
+      "St Germain",
+      "Lime Juice",
+      "Simple Syrup",
+      "Caol Ila 12 Year Scotch Whisky"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "la-viaa",
+    "cocktail_display_name": "La Viáa",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Russells Reserve Rye Whiskey",
+      "Amaro Nonino",
+      "Lustau East India Sherry",
+      "Regans Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "coral-reef",
+    "cocktail_display_name": "Coral Reef",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "build",
+    "component_display_names": [
+      "Plymouth Gin",
+      "St Germain",
+      "Aperol",
+      "Club Soda"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "queen-christina",
+    "cocktail_display_name": "Queen Christina",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Bourbon Whiskey",
+      "Swedish Punsch",
+      "Lemon Juice",
+      "Simple Syrup"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "coffey-park-swizzle",
+    "cocktail_display_name": "Coffey Park Swizzle",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "swizzle",
+    "component_display_names": [
+      "Barbancourt 3 Star Rum",
+      "Lustau Amontillado Sherry",
+      "John D Taylors Velvet Falernum",
+      "Lime Juice",
+      "Ginger Syrup",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "elder-fashion",
+    "cocktail_display_name": "Elder Fashion",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Plymouth Gin",
+      "St Germain",
+      "House Orange Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "mezcal-swizzle",
+    "cocktail_display_name": "Mezcal Swizzle",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Mezcal",
+      "Amontillado Sherry",
+      "Ginger Syrup",
+      "Falernum",
+      "Grapefruit Juice",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "u-s-s-wonderich",
+    "cocktail_display_name": "U.S.S. Wonderich",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Amontillado Sherry",
+      "Pineapple Juice",
+      "Sweet Vermouth",
+      "Sabra",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "iiwi-bird",
+    "cocktail_display_name": "‘I‘iwi Bird",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Privateer Tiki Gin",
+      "Aperol",
+      "Passion Fruit Syrup",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "caipirinha",
+    "cocktail_display_name": "Caipirinha",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Cachaca",
+      "Lime",
+      "Demerara Sugar"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "give-em-hell",
+    "cocktail_display_name": "Give Em Hell!",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "punch",
+    "component_display_names": [
+      "Sexton Irish Whiskey",
+      "Orgeat",
+      "Genepi",
+      "Lime Juice",
+      "Green Tea",
+      "Absinthe"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "city-of-gold-sling",
+    "cocktail_display_name": "City of Gold Sling",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Haymans Old Tom Gin",
+      "El Dorado 12 Year Rum",
+      "Donns Spices 2",
+      "Vieux Pontarlier Absinthe",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Orgeat",
+      "House Peychauds Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "revenge-of-the-line",
+    "cocktail_display_name": "Revenge of the Line",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Mezcal",
+      "Yellow Chartreuse",
+      "Charred Pineapple Syrup",
+      "Lemon Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "framboise-fizz",
+    "cocktail_display_name": "Framboise Fizz",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Siete Leguas Reposado Tequila",
+      "Marie Brizard White Creme De Cacao",
+      "Lemon Juice",
+      "Brouwerij Boon Framboise"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "pressure-drop",
+    "cocktail_display_name": "Pressure Drop",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "stir",
+    "component_display_names": [
+      "Ransom Old Tom Gin",
+      "Amaro Meletti",
+      "Dolin Dry Vermouth",
+      "Clear Creek Pear Brandy",
+      "Angostura Bitters"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "baldwin-rum-sherry",
+    "cocktail_display_name": "Baldwin Rum & Sherry",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "El Dorado 12 Year Rum",
+      "Orgeat",
+      "Lemon Juice",
+      "Pineapple Juice",
+      "Pedro Ximenez Sherry",
+      "Amontillado Sherry"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "18th-century",
+    "cocktail_display_name": "18th Century",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Batavia Arrack Van Oosten",
+      "Marie Brizard White Creme De Cacao",
+      "Carpano Antica Formula Vermouth",
+      "Lime Juice"
+    ]
+  },
+  {
+    "score": 1,
+    "cocktail_slug": "pink-lady",
+    "cocktail_display_name": "Pink Lady",
+    "spec_slug": "original",
+    "spec_display_name": "original",
+    "construction_slug": "shake",
+    "component_display_names": [
+      "Plymouth Gin",
+      "Lairds Bonded Apple Brandy",
+      "Lemon Juice",
+      "Simple Syrup",
+      "Grenadine",
+      "Egg White"
+    ]
+  }
+]

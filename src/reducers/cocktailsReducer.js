@@ -1,35 +1,35 @@
 import produce from 'immer';
 import {
-  FETCH_DRINKS_BEGIN,
-  FETCH_DRINKS_SUCCESS,
-  FETCH_DRINKS_FAILURE,
-} from '../actions/drinksAction';
+  FETCH_COCKTAILS_BEGIN,
+  FETCH_COCKTAILS_SUCCESS,
+  FETCH_COCKTAILS_FAILURE,
+} from '../actions/cocktailsAction';
 
 const initialState = {
-  drinks: {},
+  cocktails: {},
   loading: false,
   error: null,
 };
 
-export default function drinksReducer(state = initialState, action = {}) {
+export default function cocktailsReducer(state = initialState, action = {}) {
   switch (action.type) {
-    case FETCH_DRINKS_BEGIN:
+    case FETCH_COCKTAILS_BEGIN:
       return produce(state, draft => {
         draft.loading = true;
         draft.error = null;
       });
 
-    case FETCH_DRINKS_SUCCESS:
+    case FETCH_COCKTAILS_SUCCESS:
       return produce(state, draft => {
         draft.loading = false;
-        draft.drinks = action.payload.drinks;
+        draft.cocktails = action.payload.cocktails;
       });
 
-    case FETCH_DRINKS_FAILURE:
+    case FETCH_COCKTAILS_FAILURE:
       return produce(state, draft => {
         draft.loading = false;
         draft.error = action.payload.error;
-        draft.drinks = {};
+        draft.cocktails = {};
       });
 
     default:

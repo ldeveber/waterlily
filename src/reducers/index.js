@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux';
 
-import drinks from './drinksReducer';
+import cocktails from './cocktailsReducer';
 import ingredients from './ingredientsReducer';
 
 export default combineReducers({
-  drinks,
+  cocktails,
   ingredients,
 });

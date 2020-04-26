@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { useHistory, useRouteMatch } from 'react-router-dom';
-import { fetchDrinks } from '../actions/drinksAction';
+import { fetchCocktails } from '../actions/cocktailsAction';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
@@ -37,16 +37,17 @@ const Drink = () => {
   const match = useRouteMatch('/drinks/:id');
   const dispatch = useDispatch();
 
-// console.log(drink)
   const handleDrinksClick = () => {
     history.push('/drinks');
   }
 
   useEffect(() => {
-    dispatch(fetchDrinks());
+    dispatch(fetchCocktails());
   }, [dispatch]);
 
-  const drink = useSelector(state => state.drinks.drinks[match.id]);
+  const drink = useSelector(state => state.cocktails.cocktails[match.params.id] || {});
+
+  console.log(match, drink);
   
   return (
     <Container maxWidth="md">
@@ -54,7 +55,7 @@ const Drink = () => {
         <Link color="inherit" href="/drinks" onClick={handleDrinksClick}>
           Drinks
         </Link>
-        <Typography color="textPrimary">{drink}</Typography>
+        <Typography color="textPrimary">{drink.display_name}</Typography>
       </Breadcrumbs>
 
 

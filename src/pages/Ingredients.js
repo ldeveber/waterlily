@@ -1,44 +1,69 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
 import { getIngredients } from '../selectors';
+import { fetchIngredients } from '../actions/ingredientsAction';
 import { makeStyles } from '@material-ui/core/styles';
-import Table from '@material-ui/core/Table';
-import TableBody from '@material-ui/core/TableBody';
-import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
-import TableHead from '@material-ui/core/TableHead';
-import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
+import ListSubheader from '@material-ui/core/ListSubheader';
+import List from '@material-ui/core/List';
+import Autocomplete from '@material-ui/lab/Autocomplete';
+import TextField from '@material-ui/core/TextField';
 import Ingredient from '../components/Ingredient';
 
-const useStyles = makeStyles({
-  table: {
-    minWidth: 650,
+const useStyles = makeStyles((theme) => ({
+  root: {
+    width: '100%',
+    maxWidth: 360,
+    backgroundColor: theme.palette.background.paper,
+    '& > * + *': {
+      marginTop: theme.spacing(3),
+    },
   },
-});
+  nested: {
+    paddingLeft: theme.spacing(4),
+  },
+}));
 
 const Ingredients = () => {
   const classes = useStyles();
   const ingredients = useSelector(getIngredients);
-  
-  console.log('an ingredient', ingredients[ 0 ]);
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(fetchIngredients());
+  }, [dispatch])
 
   return (
-    <TableContainer component={Paper}>
-      <Table className={classes.table} aria-label="simple table">
-        <TableHead>
-          <TableRow>
-            <TableCell>Ingredient Name</TableCell>
-            <TableCell>Description</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {ingredients.map((ingredient) => (
-            <Ingredient key={ingredient.name} ingredient={ingredient} />
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+    <div className={classes.root}>
+      <Autocomplete
+        multiple
+        id="tags-outlined"
+        options={ingredients}
+        getOptionLabel={(option) => option.title}
+        // defaultValue={[top100Films[13]]}
+        filterSelectedOptions
+        renderInput={(params) => (
+          <TextField
+            {...params}
+            variant="outlined"
+            label="filterSelectedOptions"
+            placeholder="Favorites"
+          />
+        )}
+      />
+      <List
+        component="nav"
+        aria-labelledby="nested-list-subheader"
+        subheader={
+          <ListSubheader component="div" id="nested-list-subheader">
+            Ingredients
+          </ListSubheader>
+        }
+      >
+        {ingredients.map((ingredient) => (
+          <Ingredient key={ingredient.name} ingredient={ingredient} />
+        ))}
+      </List>
+    </div>
   );
 };
 
